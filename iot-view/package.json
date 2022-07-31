@@ -1,0 +1,11 @@
+{
+  "name": "iot",
+  "scripts": {},
+  "dependencies": {
+    "vue": "~3.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "version": "0.0.1"
+}
